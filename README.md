@@ -112,7 +112,7 @@ Instantly launch developer tools, clean your system, manage processes, toggle Wi
 Run this in **PowerShell 7+**:
 
 ```powershell
-irm https://raw.githubusercontent.com/mini-page/PowerMenu/PowerMenu.ps1 | iex
+irm https://raw.githubusercontent.com/mini-page/PowerMenu/main/PowerMenu.ps1 | iex
 ```
 
 > ✅ Make sure your execution policy allows it:
