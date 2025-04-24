@@ -9,7 +9,7 @@
 Instantly launch developer tools, clean your system, manage processes, toggle Wi-Fi, open daily apps, and more — all from one sleek menu inside your terminal.
 
 <div align="center">
-  <img src="./assets/assetsMenu_ui.png" alt="Main Menu Interface" width="700">
+  <img src="./assets/Menu_ui.png" alt="Main Menu Interface" width="700">
   <br>
   <em>The intuitive menu interface makes navigation simple</em>
 </div>
